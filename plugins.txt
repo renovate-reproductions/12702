@@ -1,7 +1,7 @@
 email-ext:1.2.3
 
 apache-httpcomponents-client-4-api:4.4.10-2.0 # comment
-authentication-tokens:1.2
+authentication-tokens:1.4
 blueocean:1.21.0 # another comment
 #blueocean:1.22.0
 
